@@ -64,3 +64,4 @@ sudo ./install_logpresso_sona.sh \
 
 - SELinux를 `disabled`로 바꾸는 설정은 재부팅 후 완전히 적용됩니다.
 - 고객사 환경 정보는 제외한 일반화 버전입니다.
+- 설치 후 수집 정책 복구 도구: [logpresso-policy-restore](https://github.com/LeeSubin3020/logpresso-policy-restore)
